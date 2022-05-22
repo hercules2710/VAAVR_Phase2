@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene/LoginUser.unity
+    guid: 051d6810c50cfbc42bb55aaa2d7405d8
+  - enabled: 1
+    path: Assets/Scenes/ParkingScene/Parking 1.unity
+    guid: bb9246e5c12c8f940be292e127e2bc43
+  - enabled: 1
+    path: Assets/Scenes/Workshop 1.unity
+    guid: ed8f737e60c76424d891ad94dcf5b8c7
+  - enabled: 1
+    path: Assets/Scenes/CockpitScene/Cockpit 1.unity
+    guid: cb362ca13c256ba4895d00a66c0ed1b4
+  - enabled: 1
+    path: Assets/Scenes/ParkingScene/Parking 2.unity
+    guid: 532e3cdde4627b4499785c4b319b6a48
+  - enabled: 1
+    path: Assets/Scenes/CockpitScene/Cockpit 2.unity
+    guid: f85594d597dd33c42804c4984c4cf4b4
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3bcbf6d8eae8238489175d8e8646ea3f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79abaa44bf10e3d48955030b37a67c89, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2f3a3cccda8c42447a18d12f20552f21, type: 2}

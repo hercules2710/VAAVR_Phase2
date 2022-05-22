@@ -3,29 +3,39 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - LeftHandController
+  - RightHandController
+  - UseToolPoint
+  - isActiveTask
+  - attach
+  - crack
+  - Smooth
+  - SpawnPosition
+  - BrakeTrigger
+  - Destroy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Grabable
+  - ToolsBox
+  - Hookable
+  - UseTool
+  - UseToolPoint
+  - HandModel
+  - Character
+  - Tyre
+  - UsePlier
+  - PostProcessing
+  - CanBeLifted
+  - Base
+  - Button
+  - UseTorque
+  - CotterPinPlacement
   - 
   - 
   - 
