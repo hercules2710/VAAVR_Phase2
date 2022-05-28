@@ -1,0 +1,15 @@
+﻿VAAVR_Simulate/Library
+*.sln
+VAAVR_Simulate/.vs
+VAAVR_Simulate/Logs
+VAAVR_Simulate/obj
+VAAVR_Simulate/UserSettings
+*.csproj
+VAAVR_Simulate/Library
+VAAVR_Simulate/Logs
+VAAVR_Simulate/UserSettings
+VAAVR_Simulate/obj
+VAAVR_Simulate/Assembly-CSharp.csproj
+VAAVR_Simulate/Assembly-CSharp-Editor.csproj
+*.csproj
+*.meta
